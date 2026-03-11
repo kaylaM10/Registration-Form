@@ -1,10 +1,10 @@
 # Registration Form
 
 ## DESCRIPTION
--This project is a simple front-end registration form built using HTML and CSS. It was created as a practice exercise.
+- This project is a simple front-end registration form built using HTML and CSS. It was created as a practice exercise.
 
 ## TECHNOLOGIES USED
--html
+- html
 - css
 
 ## FEATURES 
