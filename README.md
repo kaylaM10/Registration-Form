@@ -5,17 +5,17 @@
 
 ## TECHNOLOGIES USED
 -html
--css
+- css
 
 ## FEATURES 
 -User input fields for first name, last name, email, and password
--Account Type
--File to upload a profile picture
--Age input with min and max limits
--Dropdown menu for referral source
--Bio textarea
--Terms and conditions checkbox
--Submit button
+- Account Type
+- File to upload a profile picture
+- Age input with min and max limits
+- Dropdown menu for referral source
+- Bio textarea
+- Terms and conditions checkbox
+- Submit button
 
 ## HOW TO RUN THE PROJECT
 1. Clone the repo:  git clone https://github.com/kaylaM10/Registration-Form.git
