@@ -8,7 +8,7 @@
 - css
 
 ## FEATURES 
--User input fields for first name, last name, email, and password
+- User input fields for first name, last name, email, and password
 - Account Type
 - File to upload a profile picture
 - Age input with min and max limits
